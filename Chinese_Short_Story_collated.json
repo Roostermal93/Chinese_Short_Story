@@ -8,14 +8,14 @@
             "collectionId": "Chinese",
             "type": "Short_Story",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short/Chinese/0ad2bf1e-6611-40c3-9f34-d0e7d574c1ec_Ch_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/Chinese/0ad2bf1e-6611-40c3-9f34-d0e7d574c1ec_ch_Female.mp4"
         },
         {
             "id": "56dfa0e4-214e-4b16-98e8-b6b4fabdc1aa",
             "collectionId": "Chinese",
             "type": "Short_Story",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short/Chinese/56dfa0e4-214e-4b16-98e8-b6b4fabdc1aa_Ch_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/Chinese/56dfa0e4-214e-4b16-98e8-b6b4fabdc1aa_ch_Male.mp4"
         }
     ]
 }
